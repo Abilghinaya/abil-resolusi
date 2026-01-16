@@ -1,0 +1,4 @@
+RENCANA BELAJAR BAHASA PEMROGRAMAN
+-Belajar HTML
+-Belajar CSS
+-Dan perkuat pondasi Fundamental dengan C++ atau yang lain
